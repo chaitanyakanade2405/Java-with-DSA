@@ -1,4 +1,3 @@
-package Questions;
 //Find Smallest Letter Greater Than Target LeetCode problem #744
 //condition: find the smallest element in the array that is greater than the target
 //ceiling problem

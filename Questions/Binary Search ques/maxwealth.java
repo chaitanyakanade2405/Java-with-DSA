@@ -1,5 +1,4 @@
 //Richest Customer Wealth LeetCode Problem #1672
-package Questions;
 public class maxwealth {
     public static void main(String[] args) {
         int[][] accounts = {

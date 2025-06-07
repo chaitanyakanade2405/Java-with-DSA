@@ -1,5 +1,4 @@
 //Find Numbers with Even Number of Digits LeetCode Problem #1295
-package Questions;
 public class evendigits {
     public static void main(String[] args) {
         int[] nums = {12,345,2,6,7896};
