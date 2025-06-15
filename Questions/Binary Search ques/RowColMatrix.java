@@ -23,6 +23,6 @@ public class RowColMatrix {
                 c--;    
             }
         }
-        return new int[]{-1,-1}; // Target not found
+        return new int[]{-1,-1};
     }
 }
